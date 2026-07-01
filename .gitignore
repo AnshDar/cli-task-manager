@@ -1,0 +1,16 @@
+# Build artifacts
+*.o
+*.obj
+task_manager
+task_manager.exe
+build/
+
+# Runtime data (uncomment to keep local tasks out of version control)
+# tasks.txt
+
+# Editor / OS / tooling
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
